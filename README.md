@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Dierony Sousa.
-- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas - Unilavras | Centro Universitário de Lavras.
+- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dierony-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
