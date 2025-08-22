@@ -20,6 +20,6 @@
 <div>
 <a href="https://www.linkedin.com/in/dierony-sousa/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:dieronysousa@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://dierony-sousa.github.io/portifolio/"> <img src="https://img.shields.io/badge/Portf%C3%B3lio-darkgreen?style=for-the-badge" target="_blank"></a>
+<a href = "https://dierony-sousa.github.io/portifolio/"> <img src="https://img.shields.io/badge/Portf%C3%B3lio-darkgreen?style=for-the-badge" target="blank"></a>
 
 </div>
